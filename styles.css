@@ -5,9 +5,29 @@
 .title{
     text-align: center;
     color: rgb(89, 0, 55);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Times New Roman', Times, serif
 }
 
 .restaurant-1{
-    ;
+    outline: 2px solid rgb(89, 0, 55);
+    display: block;
+    width: 35%;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(89, 0, 55);
+    font-size: 20px;
+}
+
+.restaurant-two{
+    outline: 2px solid rgb(89, 0, 55);
+    display: block;
+    width: 35%;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(89, 0, 55);
+    font-size: 20px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 70px;
+
 }
