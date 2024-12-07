@@ -16,6 +16,7 @@
     text-align: center;
     color: rgb(89, 0, 55);
     font-size: 20px;
+    margin-left: 40px;
 }
 
 .restaurant-two{
@@ -30,4 +31,56 @@
     margin-top: 20px;
     margin-left: 70px;
 
+}
+
+.france{
+    outline: 2px solid rgb(89, 0, 55);
+    display: block;
+    width: 35%;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(89, 0, 55);
+    font-size: 20px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+.italy{
+    outline: 2px solid rgb(89, 0, 55);
+    display: block;
+    width: 35%;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(89, 0, 55);
+    font-size: 20px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+
+.belarus{
+    outline: 2px solid rgb(89, 0, 55);
+    display: block;
+    width: 35%;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(89, 0, 55);
+    font-size: 20px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.russia{
+    outline: 2px solid rgb(89, 0, 55);
+    display: block;
+    width: 35%;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(89, 0, 55);
+    font-size: 20px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 230px;
 }
